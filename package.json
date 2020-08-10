@@ -1,6 +1,6 @@
 {
-  "name": "sapper-firebase-material-template",
-  "description": "Sapper Firebase Material Template",
+  "name": "book-ranker",
+  "description": "Book Ranker",
   "license": "MIT",
   "version": "0.0.1",
   "scripts": {
